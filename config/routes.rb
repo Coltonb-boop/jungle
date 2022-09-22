@@ -11,7 +11,7 @@ Rails.application.routes.draw do
   get '/logout' => 'sessions#destroy'
   
   get '/signup' => 'users#new'
-  post '/signup' => 'users#create'
+  post '/users' => 'users#create'
 
   resource :cart, only: [:show] do
     post   :add_item
