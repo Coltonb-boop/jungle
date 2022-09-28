@@ -5,9 +5,9 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Final Product
 
 Front page
-!["Screenshot of start page"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerMain.png?raw=true)
-Booking Appointment
-!["Screenshot of adding"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerAdding.png?raw=true)
+!["Screenshot of start page"](https://github.com/Coltonb-boop/jungle/blob/master/docs/jg_homepage.png?raw=true)
+Products page
+!["Screenshot of products"](https://github.com/Coltonb-boop/jungle/blob/master/docs/jg_products_page.png?raw=true)
 
 ## Setup
 
