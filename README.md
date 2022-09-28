@@ -2,6 +2,13 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Final Product
+
+Front page
+!["Screenshot of start page"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerMain.png?raw=true)
+Booking Appointment
+!["Screenshot of adding"](https://github.com/Coltonb-boop/scheduler/blob/master/docs/schedulerAdding.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
